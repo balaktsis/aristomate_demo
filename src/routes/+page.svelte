@@ -1,7 +1,9 @@
+<script>
+	import { universisFetch } from '$lib/universis_fetch';
+</script>
+
 
   <ion-card>
-	<ion-button href="/login">Login</ion-button>
-
 	<ion-card-header>
 		<ion-card-subtitle>Great success!!</ion-card-subtitle>
 		<ion-card-title>Welcome to your app!</ion-card-title>
